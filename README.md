@@ -20,5 +20,5 @@ Je recherche un stage de fin d'études à partir de mars 2027, en développement
 
 ## Contact
 
-- LinkedIn : <ajoute ici le lien de ton profil LinkedIn>
-- Email : <ajoute ici ton email>
+- LinkedIn : https://www.linkedin.com/in/joel-tchinda-tapa/
+- Email : tapajoel16@gmail.com
