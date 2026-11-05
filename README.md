@@ -2,7 +2,7 @@
 
 Élève ingénieur en 5e année d'informatique à l'ENSIM (Le Mans).
 
-Je recherche un stage de fin d'études à partir de mars 2027, en développement fullstack, logiciel IA, data ou DevOps.
+Je recherche un stage de fin d'études à partir de mars 2027, en développement logiciel, logiciel IA, data et DevOps.
 
 ## Compétences
 
