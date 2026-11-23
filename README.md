@@ -1,10 +1,10 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2F81F7&height=210&section=header&text=Jo%C3%ABl%20TCHINDA%20TAPA&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=%C3%89l%C3%A8ve-ing%C3%A9nieur%20Data%20%26%20D%C3%A9veloppement%20%C2%B7%20ENSIM%20Le%20Mans&descAlignY=56&descSize=18" width="100%" alt="Joël TCHINDA TAPA"/>
+  <img src="assets/banner.svg" width="100%" alt="Joël TCHINDA TAPA"/>
 </p>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/joel-tchinda-tapa">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=3200&pause=900&color=2F81F7&center=true&vCenter=true&width=720&height=50&lines=%C3%89l%C3%A8ve-ing%C3%A9nieur%20en%205e%20ann%C3%A9e%20%40%20ENSIM;Data%20Science%20%26%20Machine%20Learning;Data%20Engineering%20%26%20Business%20Intelligence;D%C3%A9veloppeur%20Java%20%C2%B7%20Angular%20%C2%B7%20Kotlin;Capteurs%2C%20VR%20et%20projets%20qui%20touchent%20au%20r%C3%A9el;Stage%20de%20fin%20d%27%C3%A9tudes%20de%206%20mois%20d%C3%A8s%20mars%202027" alt="Élève-ingénieur Data et Développement"/>
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=3200&pause=900&color=2F81F7&center=true&vCenter=true&width=900&height=50&lines=%C3%89l%C3%A8ve-ing%C3%A9nieur%20en%205e%20ann%C3%A9e%20%40%20ENSIM;Data%20Science%20%26%20Machine%20Learning;Data%20Engineering%20%26%20Business%20Intelligence;D%C3%A9veloppeur%20Java%20%C2%B7%20Angular%20%C2%B7%20Kotlin;Capteurs%2C%20VR%20et%20objets%20connect%C3%A9s;Stage%20de%20fin%20d%27%C3%A9tudes%20de%206%20mois%20d%C3%A8s%20mars%202027" alt="Élève-ingénieur Data et Développement"/>
   </a>
 </p>
 
@@ -641,5 +641,5 @@ timeline
 </p>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2F81F7,50:203A43,100:0F2027&height=120&section=footer" width="100%" alt=""/>
+  <img src="assets/footer.svg" width="100%" alt=""/>
 </p>
