@@ -60,19 +60,111 @@ Je transforme des **données brutes en modèles prédictifs et en tableaux de bo
 
 ## 🧰 Ma boîte à outils
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=python,java,kotlin,ts,js,cs,html,css&perline=8" alt="Langages"/>
-  <br/><br/>
-  <img src="https://skillicons.dev/icons?i=pytorch,sklearn,mysql,postgres,mongodb,supabase,firebase,rabbitmq&perline=8" alt="Data et bases de données"/>
-  <br/><br/>
-  <img src="https://skillicons.dev/icons?i=spring,nodejs,express,angular,react,androidstudio,unity,unreal&perline=8" alt="Frameworks"/>
-  <br/><br/>
-  <img src="https://skillicons.dev/icons?i=docker,git,github,githubactions,maven,gradle,figma,arduino&perline=8" alt="Outils"/>
-</p>
+<h3 align="center">🎨 Front-end</h3>
 
-<p align="center">
-  <img src="https://img.shields.io/badge/pandas-150458?style=flat-square&logo=pandas&logoColor=white" alt="pandas"/> <img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white" alt="NumPy"/> <img src="https://img.shields.io/badge/Plotly-3F4F75?style=flat-square&logo=plotly&logoColor=white" alt="Plotly"/> <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white" alt="Streamlit"/> <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=flat-square&logo=powerbi&logoColor=white" alt="Power BI"/> <img src="https://img.shields.io/badge/Chart.js-FF6384?style=flat-square&logo=chartdotjs&logoColor=white" alt="Chart.js"/> <img src="https://img.shields.io/badge/Ollama%20%C2%B7%20Qwen3-000000?style=flat-square&logo=ollama&logoColor=white" alt="Ollama · Qwen3"/> <img src="https://img.shields.io/badge/OpenAPI-6BA539?style=flat-square&logo=openapiinitiative&logoColor=white" alt="OpenAPI"/> <img src="https://img.shields.io/badge/Jetpack%20Compose-4285F4?style=flat-square&logo=jetpackcompose&logoColor=white" alt="Jetpack Compose"/> <img src="https://img.shields.io/badge/Jest-C21325?style=flat-square&logo=jest&logoColor=white" alt="Jest"/> <img src="https://img.shields.io/badge/detekt-5A6B7B?style=flat-square" alt="detekt"/>
-</p>
+<div align="center">
+<table>
+  <tr>
+    <td align="center" width="96"><img src="https://skillicons.dev/icons?i=html" width="48" height="48" alt="HTML5"/><br/><sub><b>HTML5</b></sub></td>
+    <td align="center" width="96"><img src="https://skillicons.dev/icons?i=css" width="48" height="48" alt="CSS3"/><br/><sub><b>CSS3</b></sub></td>
+    <td align="center" width="96"><img src="https://skillicons.dev/icons?i=js" width="48" height="48" alt="JavaScript"/><br/><sub><b>JavaScript</b></sub></td>
+    <td align="center" width="96"><img src="https://skillicons.dev/icons?i=ts" width="48" height="48" alt="TypeScript"/><br/><sub><b>TypeScript</b></sub></td>
+    <td align="center" width="96"><img src="https://skillicons.dev/icons?i=angular" width="48" height="48" alt="Angular"/><br/><sub><b>Angular</b></sub></td>
+    <td align="center" width="96"><img src="https://skillicons.dev/icons?i=react" width="48" height="48" alt="React"/><br/><sub><b>React</b></sub></td>
+  </tr>
+</table>
+</div>
+
+<h3 align="center">⚙️ Back-end</h3>
+
+<div align="center">
+<table>
+  <tr>
+    <td align="center" width="96"><img src="https://skillicons.dev/icons?i=java" width="48" height="48" alt="Java"/><br/><sub><b>Java</b></sub></td>
+    <td align="center" width="96"><img src="https://skillicons.dev/icons?i=spring" width="48" height="48" alt="Spring Boot"/><br/><sub><b>Spring Boot</b></sub></td>
+    <td align="center" width="96"><img src="https://skillicons.dev/icons?i=nodejs" width="48" height="48" alt="Node.js"/><br/><sub><b>Node.js</b></sub></td>
+    <td align="center" width="96"><img src="https://skillicons.dev/icons?i=express" width="48" height="48" alt="Express"/><br/><sub><b>Express</b></sub></td>
+    <td align="center" width="96"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/swagger/swagger-original.svg" width="48" height="48" alt="OpenAPI · Swagger"/><br/><sub><b>OpenAPI · Swagger</b></sub></td>
+    <td align="center" width="96"><img src="https://skillicons.dev/icons?i=rabbitmq" width="48" height="48" alt="RabbitMQ"/><br/><sub><b>RabbitMQ</b></sub></td>
+    <td align="center" width="96"><img src="https://skillicons.dev/icons?i=maven" width="48" height="48" alt="Maven"/><br/><sub><b>Maven</b></sub></td>
+  </tr>
+</table>
+</div>
+
+<h3 align="center">🧠 Data & IA</h3>
+
+<div align="center">
+<table>
+  <tr>
+    <td align="center" width="96"><img src="https://skillicons.dev/icons?i=python" width="48" height="48" alt="Python"/><br/><sub><b>Python</b></sub></td>
+    <td align="center" width="96"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pandas/pandas-original.svg" width="48" height="48" alt="pandas"/><br/><sub><b>pandas</b></sub></td>
+    <td align="center" width="96"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/numpy/numpy-original.svg" width="48" height="48" alt="NumPy"/><br/><sub><b>NumPy</b></sub></td>
+    <td align="center" width="96"><img src="https://skillicons.dev/icons?i=sklearn" width="48" height="48" alt="scikit-learn"/><br/><sub><b>scikit-learn</b></sub></td>
+    <td align="center" width="96"><img src="https://skillicons.dev/icons?i=pytorch" width="48" height="48" alt="PyTorch"/><br/><sub><b>PyTorch</b></sub></td>
+    <td align="center" width="96"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jupyter/jupyter-original.svg" width="48" height="48" alt="Jupyter"/><br/><sub><b>Jupyter</b></sub></td>
+    <td align="center" width="96"><img src="https://cdn.simpleicons.org/ollama/808080" width="48" height="48" alt="Ollama · LLM"/><br/><sub><b>Ollama · LLM</b></sub></td>
+  </tr>
+</table>
+</div>
+
+<h3 align="center">🗄️ Bases de données</h3>
+
+<div align="center">
+<table>
+  <tr>
+    <td align="center" width="96"><img src="https://skillicons.dev/icons?i=mysql" width="48" height="48" alt="MySQL"/><br/><sub><b>MySQL</b></sub></td>
+    <td align="center" width="96"><img src="https://skillicons.dev/icons?i=postgres" width="48" height="48" alt="PostgreSQL"/><br/><sub><b>PostgreSQL</b></sub></td>
+    <td align="center" width="96"><img src="https://skillicons.dev/icons?i=mongodb" width="48" height="48" alt="MongoDB"/><br/><sub><b>MongoDB</b></sub></td>
+    <td align="center" width="96"><img src="https://skillicons.dev/icons?i=supabase" width="48" height="48" alt="Supabase"/><br/><sub><b>Supabase</b></sub></td>
+    <td align="center" width="96"><img src="https://skillicons.dev/icons?i=firebase" width="48" height="48" alt="Firebase"/><br/><sub><b>Firebase</b></sub></td>
+  </tr>
+</table>
+</div>
+
+<h3 align="center">📊 Visualisation & BI</h3>
+
+<div align="center">
+<table>
+  <tr>
+    <td align="center" width="96"><img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/New_Power_BI_Logo.svg" width="48" height="48" alt="Power BI"/><br/><sub><b>Power BI</b></sub></td>
+    <td align="center" width="96"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/streamlit/streamlit-original.svg" width="48" height="48" alt="Streamlit"/><br/><sub><b>Streamlit</b></sub></td>
+    <td align="center" width="96"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/plotly/plotly-original.svg" width="48" height="48" alt="Plotly"/><br/><sub><b>Plotly</b></sub></td>
+    <td align="center" width="96"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/chartjs/chartjs-original.svg" width="48" height="48" alt="Chart.js"/><br/><sub><b>Chart.js</b></sub></td>
+  </tr>
+</table>
+</div>
+
+<h3 align="center">📱 Mobile & dev</h3>
+
+<div align="center">
+<table>
+  <tr>
+    <td align="center" width="96"><img src="https://skillicons.dev/icons?i=kotlin" width="48" height="48" alt="Kotlin"/><br/><sub><b>Kotlin</b></sub></td>
+    <td align="center" width="96"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jetpackcompose/jetpackcompose-original.svg" width="48" height="48" alt="Jetpack Compose"/><br/><sub><b>Jetpack Compose</b></sub></td>
+    <td align="center" width="96"><img src="https://skillicons.dev/icons?i=androidstudio" width="48" height="48" alt="Android Studio"/><br/><sub><b>Android Studio</b></sub></td>
+    <td align="center" width="96"><img src="https://skillicons.dev/icons?i=cs" width="48" height="48" alt="C#"/><br/><sub><b>C#</b></sub></td>
+    <td align="center" width="96"><img src="https://skillicons.dev/icons?i=unity" width="48" height="48" alt="Unity"/><br/><sub><b>Unity</b></sub></td>
+    <td align="center" width="96"><img src="https://skillicons.dev/icons?i=unreal" width="48" height="48" alt="Unreal Engine"/><br/><sub><b>Unreal Engine</b></sub></td>
+    <td align="center" width="96"><img src="https://skillicons.dev/icons?i=arduino" width="48" height="48" alt="Arduino"/><br/><sub><b>Arduino</b></sub></td>
+  </tr>
+</table>
+</div>
+
+<h3 align="center">🚀 DevOps & outils</h3>
+
+<div align="center">
+<table>
+  <tr>
+    <td align="center" width="96"><img src="https://skillicons.dev/icons?i=docker" width="48" height="48" alt="Docker"/><br/><sub><b>Docker</b></sub></td>
+    <td align="center" width="96"><img src="https://skillicons.dev/icons?i=git" width="48" height="48" alt="Git"/><br/><sub><b>Git</b></sub></td>
+    <td align="center" width="96"><img src="https://skillicons.dev/icons?i=github" width="48" height="48" alt="GitHub"/><br/><sub><b>GitHub</b></sub></td>
+    <td align="center" width="96"><img src="https://skillicons.dev/icons?i=githubactions" width="48" height="48" alt="GitHub Actions"/><br/><sub><b>GitHub Actions</b></sub></td>
+    <td align="center" width="96"><img src="https://skillicons.dev/icons?i=gradle" width="48" height="48" alt="Gradle"/><br/><sub><b>Gradle</b></sub></td>
+    <td align="center" width="96"><img src="https://skillicons.dev/icons?i=jest" width="48" height="48" alt="Jest"/><br/><sub><b>Jest</b></sub></td>
+    <td align="center" width="96"><img src="https://skillicons.dev/icons?i=figma" width="48" height="48" alt="Figma"/><br/><sub><b>Figma</b></sub></td>
+  </tr>
+</table>
+</div>
 
 ---
 
